@@ -213,6 +213,7 @@ body {
 }
 
 .footer-titel{
+    font-weight: 700;
     color: var(--titel-light-color);
 
     background-color: gray;
